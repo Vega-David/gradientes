@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding:0;
+}
+#zonaGradiente{
+    border-bottom:3px solid black;
+    height:85vh;
+    width:100vw;
+    display:flex;   
+}
+p{
+    margin:auto;
+    text-decoration:underline;    
+}
+#color1,#color2{
+   border:none;
+}
+#barra{
+    text-align:center;
+    height:7.3vh;
+    background:red;
+}
+#barra2{
+    height:7.5vh;
+    text-align:center;
+    background:green;
+}
